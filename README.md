@@ -1,19 +1,8 @@
-# Hi, I'm Mucyo Prince 👋
+# Hi, I'm MUCYO Prince 👋
 
 ### Full Stack Software Developer | Open Source Contributor | Tech Community Builder
 
 I'm a software developer from Rwanda passionate about building scalable web applications, digital platforms, and impactful technology solutions. I enjoy turning ideas into products, contributing to open source, and helping grow Africa's tech ecosystem.
-
----
-
-## 🚀 About Me
-
-- 🎓 Bachelor of Computer Science (First Class Honors)
-- 💻 Full Stack Developer specializing in MERN & PERN Stack
-- 🌍 Open Source Contributor
-- 🚀 Building products that solve real-world problems
-- 🤝 Interested in Software Engineering, Startups, and Technology Communities
-- 📍 Kigali, Rwanda
 
 ---
 
@@ -41,29 +30,6 @@ I'm a software developer from Rwanda passionate about building scalable web appl
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-
-## 🌟 Featured Projects
-
-### 🏠 NextLine Homes
-A modern real estate platform designed to simplify property discovery, buying, renting, and management across Rwanda and beyond.
-
-### ⚡ Nestify
-An open-source toolkit that accelerates backend development and improves developer productivity with NestJS.
-
-### 🛒 Multi-Vendor E-Commerce Platform
-A scalable marketplace enabling multiple vendors to sell products through a unified shopping experience and integrated payment solutions.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prince-Kid&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Kid&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
